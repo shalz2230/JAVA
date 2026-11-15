@@ -1,0 +1,25 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+
+PARKING FLOOR DETAILS
+Floor 1 - Slots: 10
+Floor 2 - Slots: 15
+Floor 3 - Slots: 20
+Floor 4 - Slots: 12
+Floor 5 - Slots: 18
+Total Parking Slots: 75
+
+VEHICLE FEE DETAILS
+Car (TN01A1111) Fee: Rs 90.0
+EBike (TN02B2222) Fee: Rs 20.0
+DeliveryVan (TN03C3333) Fee: Rs 180.0
+VisitorPass (TN04D4444) Fee: Rs 100.0
+
+DESIGN EVALUATION
+Existing system is modified.
+New vehicle types are supported.
+Different floors have different slot counts.
+Visitor one-day pass is available.
+Delivery vans use double car rate.
+
+TESTING COMPLETED
