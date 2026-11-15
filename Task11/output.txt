@@ -1,0 +1,31 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+
+1. NORMAL OPERATION
+TN01A1111 parked in Slot 1
+TN02B2222 parked in Slot 2
+TN03C3333 parked in Slot 3
+
+2. LAST FREE SLOT TEST
+Parking Full!
+
+3. ZERO MINUTE PARKING
+TN01A1111 exited from Slot 1 | Fee: Rs 0.0
+
+4. FEE BOUNDARY TEST
+TN02B2222 exited from Slot 2 | Fee: Rs 30.0
+
+5. INVALID VEHICLE TEST
+Unknown vehicle type!
+
+6. DUPLICATE REGISTRATION TEST
+Duplicate registration rejected!
+
+7. INVALID SLOT TEST
+Slot 5 Valid: false
+
+8. DAILY COLLECTION
+TN03C3333 exited from Slot 3 | Fee: Rs 60.0
+Total Collection: Rs 90
+
+TESTING COMPLETED
