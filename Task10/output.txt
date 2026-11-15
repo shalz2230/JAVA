@@ -1,0 +1,16 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+
+Vehicle Details:
+Registration Number: TN01AB1234
+Vehicle Type: Car
+Parking Hours: 3
+Parking Fee: Rs 90.0
+
+Updating Parking Hours:
+New Parking Hours: 5
+Updated Parking Fee: Rs 150.0
+
+Testing Encapsulation:
+Invalid parking hours!
+Final Parking Hours: 5
