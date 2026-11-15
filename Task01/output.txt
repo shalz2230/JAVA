@@ -1,0 +1,16 @@
+CAMPUS SMART PARKING SYSTEM
+---------------------------
+User Name: Krishna
+User Type: Student
+
+Registration Number: TN01AB1234
+Vehicle Type: Car
+
+Vehicle Parked Successfully!
+Floor Number: 1
+Slot Number: 101
+
+Ticket Number: 1001
+Vehicle: TN01AB1234
+
+Parking Slot is Already Occupied!
