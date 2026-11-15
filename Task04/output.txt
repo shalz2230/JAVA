@@ -1,0 +1,23 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+
+Default Constructor:
+Ticket Number: 1001
+Vehicle Number: NOT ASSIGNED
+Parking Fee: Rs 0.0
+----------------------
+Parameterized Constructor:
+Ticket Number: 1002
+Vehicle Number: TN01AB1234
+Parking Fee: Rs 30.0
+----------------------
+Overloaded Constructor:
+Ticket Number: 1003
+Vehicle Number: TN02CD5678
+Parking Fee: Rs 90.0
+----------------------
+Copy Constructor:
+Ticket Number: 1003
+Vehicle Number: TN02CD5678
+Parking Fee: Rs 90.0
+----------------------
