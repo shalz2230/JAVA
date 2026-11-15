@@ -1,0 +1,17 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+
+Vehicle Details:
+Car - TN01AB1234
+Two Wheeler - TN02CD5678
+
+Parking Fee for 3 Hours:
+Car Fee: Rs 150.0
+Bike Fee: Rs 60.0
+
+Equality Checking:
+Same Registration: true
+Same Hash Code: true
+
+Default Vehicle Fee:
+Fee: Rs 90.0
