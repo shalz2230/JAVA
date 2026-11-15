@@ -1,0 +1,26 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+Parking Ticket System Initialized
+
+Issued Tickets:
+Ticket Number: 1001
+Vehicle Number: TN01AB1234
+Ticket Number: 1002
+Vehicle Number: TN02CD5678
+Ticket Number: 1003
+Vehicle Number: TN03EF9012
+
+Total Tickets: 3
+
+Facility Occupancy:
+North Gate Occupancy: 2
+South Gate Occupancy: 1
+
+Vehicle Exit:
+Vehicle exited from North Gate
+Ticket reference set to null.
+Object is eligible for Garbage Collection.
+
+Final Occupancy:
+North Gate Occupancy: 1
+South Gate Occupancy: 1
