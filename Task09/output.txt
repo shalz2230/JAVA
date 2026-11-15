@@ -1,0 +1,12 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+
+Car Details:
+Registration Number: TN01AB1234
+Parking Fee: Rs 90.0
+
+Electric Car Details:
+Registration Number: TN02CD5678
+Parking Fee: Rs 90.0
+EV Charging Facility Available
+Charging Fee: Rs 120.0
