@@ -1,0 +1,16 @@
+CAMPUS SMART PARKING SYSTEM
+---------------------------
+Vehicle Number: TN01AB1234
+Entry Time: 2026-11-15T08:46:21.960746508
+
+Vehicle: TN01AB1234
+Floor: 1
+Slot: 1
+Status: Parking Successful
+
+Parking Duration: 90 minutes
+Rate Per Hour: Rs 30.0
+Parking Fee: Rs 60.0
+
+Integer Division: 1
+Correct Billable Hours: 2
