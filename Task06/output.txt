@@ -1,0 +1,20 @@
+CAMPUS SMART PARKING SYSTEM
+===========================
+
+Creating Electric Car:
+1. Vehicle Constructor Called
+2. Car Constructor Called
+3. ElectricCar Constructor Called
+
+Electric Car Details:
+Vehicle Number: TN01EV1234
+Vehicle Type: Car
+Battery Capacity: 75 kWh
+
+Creating Two Wheeler:
+1. Vehicle Constructor Called
+TwoWheeler Constructor Called
+
+Two Wheeler Details:
+Vehicle Number: TN02AB5678
+Vehicle Type: Two Wheeler
